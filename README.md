@@ -62,3 +62,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Curso de Single Page Applications en Laravel con Inertia y Vue.js
+
+Una Single-Page Application (aplicación de una sola página o SPA por sus siglas en inglés) es una aplicación web que interactúa de forma dinámica con el usuario rescribiendo la información de la página actual con nuevos datos del servidor, en lugar de ir a una página nueva. 
+Conjunto de tecnologías provistas por Jetstream que utiliza a Vue.js como plantilla.
+
+* Utilizar el sistema de rutas de Laravel de forma simplificada comparado con el de Vue.js
+* Desarrollar una Single-Page Application funcional aprovechando las características de Laravel 8.
+* Implementar interfaces gráficas y componentes web utilizando Inertia y Vue.js.
+* Crear una aplicación de notas con Laravel y Jetsream.
+
+# Curso platzi
+
+* https://platzi.com/cursos/laravel-spa/
